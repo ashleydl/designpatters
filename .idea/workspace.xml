@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ceacd6ae-ec6b-4784-a358-bd754e533afc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DuckTestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Turkey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TurkeyAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WildTurkey.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled2/Duck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled2/Duck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled2/MallardDuck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled2/MallardDuck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled2/MiniDuckSimulator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Duck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MallardDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MallardDuck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MiniDuckSimulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Simulator.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,8 +48,8 @@
       <file leaf-file-name="MallardDuck.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MallardDuck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="119">
+              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
               <folding>
                 <element signature="e#67#68#0" expanded="true" />
                 <element signature="e#106#107#0" expanded="true" />
@@ -173,10 +163,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="754" />
-    <option name="width" value="1138" />
-    <option name="height" value="1055" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="273" />
+    <option name="y" value="2" />
+    <option name="width" value="1400" />
+    <option name="height" value="820" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -201,16 +192,7 @@
             <path>
               <item name="untitled2" type="b2602c69:ProjectViewProjectNode" />
               <item name="untitled2" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="untitled2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="untitled2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="untitled2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -297,6 +279,14 @@
       <option name="presentableId" value="Default" />
       <updated>1523270850329</updated>
     </task>
+    <task id="LOCAL-00001" summary="duckturkey">
+      <created>1523385431488</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1523385431488</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -307,7 +297,7 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" visible="true" weight="0.32943678" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.26354942" />
@@ -360,6 +350,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="duckturkey" />
+    <option name="LAST_COMMIT_MESSAGE" value="duckturkey" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -697,8 +691,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MallardDuck.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="119">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
           <folding>
             <element signature="e#67#68#0" expanded="true" />
             <element signature="e#106#107#0" expanded="true" />
